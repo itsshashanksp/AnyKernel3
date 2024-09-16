@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Sleepy Kernel for Redmi K20 by @ itsshashanksp
+kernel.string=Sleepy Kernel for Redmi K20 by t.me/itsshashanksp
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=davinci
 device.name2=davinciin
-supported.versions=11 - 14
+supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
